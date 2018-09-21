@@ -1,5 +1,5 @@
 # Everybody Lies
-## Seth Stephens-Davidowitz
+## [Seth Stephens-Davidowitz](http://sethsd.com/)
 
 This is a worthwhile read. The findings if not the methodology will likely be outdated within 10 years, so read it sooner than later. Stephens-Davidowitz tells a simple story for a general audience. We, in some ways and to a degree, reveal true things about ourselves in our Google queries that we do not otherwise reveal.
 
