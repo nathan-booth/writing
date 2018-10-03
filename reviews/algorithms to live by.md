@@ -1,0 +1,3 @@
+This book offers an interesting framework from which to view the world, as a computer scientist does. They view it in terms of complexity, working to minimizing computational costs in time and space, and balancing the solution trade-off between acceptable error risk and usefulness.
+
+I enjoyed it. Some of the chapters merely justify or provide a new perspective on commonplace human endeavors like sorting or senescence. Some of the chapters offer guidelines on how to structure parts of your life, by using things like strategic randomness or the 37% Rule. For pure knowledge of how communication, the networking chapter is great.
